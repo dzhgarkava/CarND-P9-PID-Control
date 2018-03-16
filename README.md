@@ -16,6 +16,11 @@ Firstly I set up environment based on David's video. After that I tunned paramen
 
 My **Final paramenters = [P:0.12, P:0.002, P:2.9]** allow the car to successfully drive around the track and steer pretty smoothly. 
 
+
+## Improvement
+
+I'm planning to improve this project by adding second PID Controller to adjust a throttle.
+
 [//]: # (Image References)
 [image1]: ./pid_track.png
 
